@@ -24,3 +24,5 @@ describe('npm version', function () {
     })
   })
 })
+
+console.log("I'm done")
